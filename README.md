@@ -1,3 +1,3 @@
 # MajidGit
-This repo is about Majid Ebrahimian
+This repository is about Majid Ebrahimian Projects
 i want to save my Projects in this Repo
